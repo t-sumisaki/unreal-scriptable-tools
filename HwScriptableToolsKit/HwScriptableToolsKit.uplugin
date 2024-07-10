@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "HwScriptableToolsKit",
+	"Description": "",
+	"Category": "Editor",
+	"CreatedBy": "T_Sumisaki",
+	"CreatedByURL": "https://github.com/t-sumisaki/unreal-scriptable-tools",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Plugins": [
+		{
+			"Name": "GizmoEdMode",
+			"Enabled": true
+		},
+		{
+			"Name": "ScriptableToolsEditorMode",
+			"Enabled": true
+		}
+	]
+}
